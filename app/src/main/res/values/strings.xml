@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">CustomLoaderSampleProject</string>
+    <string name="app_name">AsynTaskLoader Sample Project</string>
     <string name="welcome_text">Hello ! Random text coming in 2 sec.</string>
 </resources>
